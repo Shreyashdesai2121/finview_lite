@@ -1,0 +1,42 @@
+{
+  "user": "Aarav Patel",
+  "portfolio_value": 150000,
+  "total_gain": 12000,
+  "holdings": [
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy",
+      "units": 5,
+      "avg_cost": 3200,
+      "current_price": 3400
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Ltd",
+      "units": 10,
+      "avg_cost": 1400,
+      "current_price": 1500
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries",
+      "units": 8,
+      "avg_cost": 2500,
+      "current_price": 2600
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank",
+      "units": 15,
+      "avg_cost": 1600,
+      "current_price": 1650
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank",
+      "units": 12,
+      "avg_cost": 950,
+      "current_price": 920
+    }
+  ]
+}
