@@ -120,9 +120,13 @@ The app uses `assets/portfolio.json` for portfolio data. Example format:
 
 ![Login Screen - Dark Mode](screenshots/login_dark.png)
 
-![Dashboard - Light Mode](screenshots/dashboard_light.png)
+![Dashboard - Light Mode (Part 1)](screenshots/dashboard1_light.png)
 
-![Dashboard - Dark Mode](screenshots/dashboard_dark.png)
+![Dashboard - Light Mode (Part 2)](screenshots/dashboard2_light.png)
+
+![Dashboard - Dark Mode (Part 1)](screenshots/dashboard1_dark.png)
+
+![Dashboard - Dark Mode (Part 2)](screenshots/dashboard2_dark.png)
 
 ## Demo Video
 
