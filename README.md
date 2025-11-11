@@ -130,7 +130,7 @@ The app uses `assets/portfolio.json` for portfolio data. Example format:
 
 ## Demo Video
 
-[Link to demo video](https://youtu.be/xxx)
+[Link to demo video](https://youtu.be/tx1_5zREt3U?feature=shared)
 
 The demo shows:
 - Login functionality
